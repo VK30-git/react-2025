@@ -26,3 +26,5 @@ const JobPage = () => {
 }
 
 export default JobPage
+
+/* npx vite and npm run server */
